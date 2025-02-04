@@ -1,0 +1,9 @@
+.home-page {
+    background-size: cover; /* Resmi tüm sayfaya sığacak şekilde ayarla */
+    background-position: center; /* Resmi ortala */
+    height: 100vh; /* Sayfanın tam yüksekliğini kapla */
+    justify-content: center;
+    align-items: center;
+    color:rgb(15, 42, 51); /* Yazı rengini beyaz yap */
+    text-align: center;
+  }

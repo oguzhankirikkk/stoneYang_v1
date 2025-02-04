@@ -1,0 +1,46 @@
+.header {
+    display: flex;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    justify-content: space-between; /* Bölümler arasında eşit boşluk bırak */
+  }
+  
+  .logo img {
+    height: 100px;
+    align-items: center; /* Dikeyde ortala */
+    margin-right: 250px;
+  }
+  
+  .menuSol {
+    margin-left: 35px;
+    display: flex;
+    gap: 20px; /* Menü öğeleri arasında boşluk */
+    font-family: 'Hanalei Fill', cursive;
+  }
+  
+  .menuSol a {
+    color: #82c4ff;
+    text-decoration: none;
+    font-size: 36px;
+  }
+  
+  .menuSol a:hover {
+    text-decoration: underline;
+  }
+
+  .menuSag {
+    margin-right: 35px;
+    display: flex;
+    gap: 20px; /* Menü öğeleri arasında boşluk */
+    font-family: 'Hanalei Fill', cursive;
+  }
+  
+  .menuSag a {
+    color: #82c4ff;
+    text-decoration: none;
+    font-size: 36px;
+  }
+  
+  .menuSag a:hover {
+    text-decoration: underline;
+  }

@@ -1,0 +1,11 @@
+.footer {
+    background-color: #ffffff;
+    color: #82c4ff;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    font-family: 'Hanalei Fill', cursive;
+    font-size: 24px;
+  }
